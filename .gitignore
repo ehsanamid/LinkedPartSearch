@@ -1,0 +1,8 @@
+/files
+/__pycache__
+/*.xlsm
+/*.xlsx
+/build
+/*.log
+/dist
+/*.pyc
